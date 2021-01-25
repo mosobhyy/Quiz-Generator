@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1575149050 source:d:\study\projects\c++\game v2.0\main.cpp
+	<iostream>
+	<User.h>
+	<Admin.h>
+	<Player.h>
+	<MCQ.h>
+	<TF.h>
+	<Complete.h>
+	<Statistics.h>
+	<bits/stdc++.h>
+
+1575146999 d:\study\projects\c++\game v2.0\include\user.h
+	<bits/stdc++.h>
+
+1575146999 d:\study\projects\c++\game v2.0\include\admin.h
+	<string>
+	"User.h"
+	<Player.h>
+
+1575146999 d:\study\projects\c++\game v2.0\include\player.h
+	<User.h>
+
+1575146999 d:\study\projects\c++\game v2.0\include\mcq.h
+	<Question.h>
+	<string>
+
+1575146999 d:\study\projects\c++\game v2.0\include\question.h
+	<string>
+
+1575147000 d:\study\projects\c++\game v2.0\include\tf.h
+	<Question.h>
+	<string>
+
+1575146999 d:\study\projects\c++\game v2.0\include\complete.h
+	<Question.h>
+	<string>
+
+1575146999 d:\study\projects\c++\game v2.0\include\statistics.h
+	<bits/stdc++.h>
+
+1575149070 source:d:\study\projects\c++\game v2.0\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<Player.h>
+	<Question.h>
+	<MCQ.h>
+	<TF.h>
+	<Complete.h>
+	<bits/stdc++.h>
+
+1575146999 source:d:\study\projects\c++\game v2.0\src\complete.cpp
+	"Complete.h"
+
+1575146999 source:d:\study\projects\c++\game v2.0\src\mcq.cpp
+	"MCQ.h"
+
+1575149050 source:d:\study\projects\c++\game v2.0\src\player.cpp
+	<iostream>
+	"Player.h"
+	<Admin.h>
+	<Quiz.h>
+	<Statistics.h>
+	<bits/stdc++.h>
+
+1575146999 d:\study\projects\c++\game v2.0\include\quiz.h
+
+1575147000 source:d:\study\projects\c++\game v2.0\src\question.cpp
+	"Question.h"
+
+1575146999 source:d:\study\projects\c++\game v2.0\src\quiz.cpp
+	<iostream>
+	"Quiz.h"
+	<Player.h>
+	<MCQ.h>
+	<TF.h>
+	<Complete.h>
+	<Statistics.h>
+	<bits/stdc++.h>
+
+1575146999 source:d:\study\projects\c++\game v2.0\src\statistics.cpp
+	"Statistics.h"
+	<bits/stdc++.h>
+
+1575147000 source:d:\study\projects\c++\game v2.0\src\tf.cpp
+	"TF.h"
+	<iostream>
+
+1575149050 source:d:\study\projects\c++\game v2.0\src\user.cpp
+	"User.h"
+	<iostream>
+	<Admin.h>
+	<Player.h>
+	<bits/stdc++.h>
+
+1575149050 source:e:\projects\c++\game v2.0\main.cpp
+	<iostream>
+	<User.h>
+	<Admin.h>
+	<Player.h>
+	<MCQ.h>
+	<TF.h>
+	<Complete.h>
+	<Statistics.h>
+	<bits/stdc++.h>
+
+1575146999 e:\projects\c++\game v2.0\include\user.h
+	<bits/stdc++.h>
+
+1575146999 e:\projects\c++\game v2.0\include\admin.h
+	<string>
+	"User.h"
+	<Player.h>
+
+1575146999 e:\projects\c++\game v2.0\include\player.h
+	<User.h>
+
+1575146999 e:\projects\c++\game v2.0\include\mcq.h
+	<Question.h>
+	<string>
+
+1575146999 e:\projects\c++\game v2.0\include\question.h
+	<string>
+
+1575147000 e:\projects\c++\game v2.0\include\tf.h
+	<Question.h>
+	<string>
+
+1575146999 e:\projects\c++\game v2.0\include\complete.h
+	<Question.h>
+	<string>
+
+1575146999 e:\projects\c++\game v2.0\include\statistics.h
+	<bits/stdc++.h>
+
+1575149070 source:e:\projects\c++\game v2.0\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<Player.h>
+	<Question.h>
+	<MCQ.h>
+	<TF.h>
+	<Complete.h>
+	<bits/stdc++.h>
+
+1575146999 source:e:\projects\c++\game v2.0\src\complete.cpp
+	"Complete.h"
+
+1575146999 source:e:\projects\c++\game v2.0\src\mcq.cpp
+	"MCQ.h"
+
+1575149050 source:e:\projects\c++\game v2.0\src\player.cpp
+	<iostream>
+	"Player.h"
+	<Admin.h>
+	<Quiz.h>
+	<Statistics.h>
+	<bits/stdc++.h>
+
+1575146999 e:\projects\c++\game v2.0\include\quiz.h
+
+1575147000 source:e:\projects\c++\game v2.0\src\question.cpp
+	"Question.h"
+
+1575146999 source:e:\projects\c++\game v2.0\src\quiz.cpp
+	<iostream>
+	"Quiz.h"
+	<Player.h>
+	<MCQ.h>
+	<TF.h>
+	<Complete.h>
+	<Statistics.h>
+	<bits/stdc++.h>
+
+1575146999 source:e:\projects\c++\game v2.0\src\statistics.cpp
+	"Statistics.h"
+	<bits/stdc++.h>
+
+1575147000 source:e:\projects\c++\game v2.0\src\tf.cpp
+	"TF.h"
+	<iostream>
+
+1575149050 source:e:\projects\c++\game v2.0\src\user.cpp
+	"User.h"
+	<iostream>
+	<Admin.h>
+	<Player.h>
+	<bits/stdc++.h>
+

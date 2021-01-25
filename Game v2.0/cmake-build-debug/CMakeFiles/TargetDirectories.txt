@@ -1,0 +1,3 @@
+/media/muhmd/New Volume/Projects/C++/Quiz-Generator/Game v2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/muhmd/New Volume/Projects/C++/Quiz-Generator/Game v2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/muhmd/New Volume/Projects/C++/Quiz-Generator/Game v2.0/cmake-build-debug/CMakeFiles/Game_v2_0.dir
